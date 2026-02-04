@@ -62,3 +62,6 @@ window.open("https://wa.me/244SEUNUMERO?text=Quero comprar " + produto);
 
 </body>
 </html>
+<a href="LINK_DO_FORMULARIO_AFILIADO">
+<button>Ser Afiliado</button>
+</a>
