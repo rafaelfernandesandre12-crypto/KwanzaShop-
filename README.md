@@ -56,7 +56,7 @@ border-radius:5px;
 
 <script>
 function comprar(produto){
-window.open("https://wa.me/244SEUNUMERO?text=Quero comprar " + produto);
+window.open("https://wa.me/244928871235text=Quero comprar " + produto);
 }
 </script>
 
